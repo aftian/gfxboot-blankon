@@ -10,8 +10,8 @@
 %
 
 % fallback if there is no "languages"
-/lang.items [ "en_US" ] def
-/lang.names [ "English (US)" ] def
+/lang.items [ "id_ID" ] def
+/lang.names [ "Bahasa Indonesia" ] def
 
 /.la.locale 0 def
 /.la.keymap 1 def
@@ -24,11 +24,14 @@
   [ "btk_ID" "us"    false   "Hata Batak" ]
   [ "bug_ID" "us"    false   "Basa Ugi" ]
   [ "bew_ID" "us"    false   "Basé Betawi" ]
-  [ "jv_ID" "us"    false   "Basa Jawa" ]
+  [ "jv_ID"  "us"    false   "Basa Jawi" ]
   [ "min_ID" "us"    false   "Baso Minangkabau" ]
   [ "ms_MY"  "us"    false   "Bahasa Melayu" ]
+  [ "su_ID"  "us"    false   "Basa Sunda" ]
   [ "en_US"  "us"    false   "English (US)" ]
   [ "id_ID"  "us"    false   "Bahasa Indonesia" ]
+  [ "pt_TL"  "us"    false   "Português (Timor Lorosa'e)" ]
+  [ "tet_TL" "us"    false   "Tetun (Timor Lorosa'e)" ]
   [ "zh_CN"  "us"    false   "简体中文" ]
 ] def
 
