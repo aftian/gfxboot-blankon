@@ -17,7 +17,7 @@ SUBDIRS      = fonts help-boot help-install po src
 
 THEME        = $(shell basename `pwd`)
 
-DEFAULT_LANG =
+DEFAULT_LANG = id_ID
 
 .PHONY: all clean distclean themes $(SUBDIRS)
 
